@@ -46,7 +46,7 @@ Follow these steps carefully to compile and install the module.
 Clone this repository to your machine.
 
 ```bash
-git clone [https://github.com/your-username/dr_maleki_balancer.git](https://github.com/your-username/dr_maleki_balancer.git)
+git clone https://github.com/hamidreza2005/dr-maleki-balancer
 cd dr_maleki_balancer
 ```
 
@@ -62,7 +62,7 @@ nginx -v
 Then, download the matching source. For example, if you have version `1.24.0`:
 ```bash
 cd /tmp
-wget [https://nginx.org/download/nginx-1.24.0.tar.gz](https://nginx.org/download/nginx-1.24.0.tar.gz)
+wget https://nginx.org/download/nginx-1.24.0.tar.gz
 tar -zxvf nginx-1.24.0.tar.gz
 ```
 
